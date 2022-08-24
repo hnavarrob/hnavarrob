@@ -1,5 +1,6 @@
-### Hi there 👋
-
+###### Hi, I'm H.  
+###### - :musical_note: I am studying an undergraduate degree in music at the *Universidad Distrital Francisco José de Caldas*.
+###### - 🌱 In addition, I am currently studying a diploma in software programming at the *Universidad Nacional de Colombia*.
 <!--
 **hnavarrob/hnavarrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
