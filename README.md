@@ -7,7 +7,7 @@ My experience has been focused on the planning and implementation of web develop
 
 📫 How to reach me: 
 - Gmail: hnavarrobernal@gmail.com 
-- LinkedIn: /hnavarrobernal
+- LinkedIn: [/hnavarrobernal](https://www.linkedin.com/in/hnavarrobernal/)
 
 <!--
 
