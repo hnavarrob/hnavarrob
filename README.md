@@ -7,7 +7,7 @@ My experience has been focused on the planning and implementation of web develop
 
 📫 How to reach me: 
 - Gmail: 
-- hnavarrobernal@gmail.com 
+  hnavarrobernal@gmail.com 
 - LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hnavarrobernal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/hnavarrobernal?trk=profile-badge">H Navarro Bernal</a></div>
               
 
